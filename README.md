@@ -57,7 +57,9 @@ The CNN-LSTM model trained for speech emotion recognition achieved a final test 
 This project demonstrates the effectiveness of deep learning for speech-based emotion recognition, showcasing improvements over existing approaches.
 
 ## 📂 Dataset
-This project uses the **RAVDESS** dataset. Download it from [here](https://zenodo.org/record/1188976).## 💡 Future Work
+This project uses the **RAVDESS** dataset. Download it from https://zenodo.org/record/1188976.
+
+## 💡 Future Work
 - Implement real-time emotion detection.
 - Expand dataset for better generalization.
 - Experiment with Transformer-based architectures.
