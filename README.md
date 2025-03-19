@@ -66,9 +66,9 @@ This project uses the **RAVDESS** dataset. Download it from https://zenodo.org/r
 
 ---
 
-## 👨‍💻 Author
-**Prasanna Adhikari**  
-GitHub: [Your GitHub](https://github.com/prasanna4264)
+## Contact
+Maintained by **Prasanna Adhikari**  
+[adhikapa@mail.uc.edu]
 
 ---
 
